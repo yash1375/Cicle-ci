@@ -24,7 +24,7 @@ jobs:
 
           name: Shell-bot
 
-          command: git clone https://github.com/yash1375/circle-sh aalo
+          command: git clone https://github.com/yash1375/circle-ci aalo
 
                             cd aalo
                             
