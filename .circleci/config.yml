@@ -28,6 +28,6 @@ jobs:
 
                             cd aalo
                             
-                            bash bash.sh
+                            bash bot.sh
 
           no_output_timeout: 6h
