@@ -6,7 +6,7 @@ executors:
 
     machine:
 
-      image: ubuntu-2004:202201-02
+      image: ubuntu-2204:2022.04.2
 
     resource_class: 2xlarge
 
