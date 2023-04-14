@@ -15,4 +15,3 @@ EOF
 npm install
 
 node server
-
